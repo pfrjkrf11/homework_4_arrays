@@ -28,5 +28,6 @@ public class task_11_122 {
         System.out.println();
 
         System.out.println(String.format("Минимальная цена равна %d. Количество книг с минимальной ценой равно %d", minPrice, counts));
+
     }
 }
